@@ -1,0 +1,17 @@
+{
+  "name": "heroes_and_rats_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC"
+}
